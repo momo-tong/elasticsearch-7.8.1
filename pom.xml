@@ -335,3 +335,5 @@
     <url>git@github.com:elastic/elasticsearch.git</url>
   </scm>
 </project>
+
+<!-- Added to trigger github security checks -->
